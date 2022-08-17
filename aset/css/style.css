@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  /* background-color: rgb(7, 28, 41); */
+  background-color: rgb(2, 71, 76);
+}
+h2 {
+  color: white;
+}
+hr {
+  color: white;
+}
+
+.konten {
+  margin-top: 90px;
+}
+
+.card {
+  background-color: rgb(22, 93, 98);
+}
+
+.dataTables_info {
+  color: white;
+}
+
+.dataTables_length {
+  color: white;
+}
+
+.dataTables_filter {
+  color: white;
+  margin-bottom: 10px;
+}
+
+.paginate_button {
+  margin-top: 10px;
+}
+
+label {
+  color: white;
+}
